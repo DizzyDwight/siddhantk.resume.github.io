@@ -13,7 +13,8 @@ Proficient in SQL, Python, Excel and BI tools.
 
 ###Professional Experience
 UI/UX designer | SALT Design Studio | India
-- 
+- Deeper dive into UI designing.
+- Creating NFT as a part of side project for the company
 
 ###Education
 - Big Data Analytics | Georgian College, Barrie
